@@ -1,0 +1,13 @@
+{
+    "images_data_file": "./images_data.json",
+    "public_path": "./public",
+    "templates_path": "./templates",
+    "images_path": "./public/images/photos",
+    "thumbnails_path": "./public/images/thumbnails",
+    "thumbnail_height": 160,
+    "title": "Shaggy Beard Photography",
+    "description": "better quality than instagram and better crop :)",
+    "background_photo": "2021-03-03_16-45-16.jpg",
+    "url": "www.instagram.com/shaggy.beard.photography",
+    "background_photo_offset": 30
+}
